@@ -311,6 +311,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Wildan, [GitHub](https://github.com/MuhWilldan).
 * Muhammad Zufar Syah, [GitHub](https://github.com/zufarsyah/).
 * Muhd Fikry Aulya, [GitHub](https://github.com/NastaRFEBE).
+* Mughni Rahmat Alaziz, [GitHub](https://github.com/MughniRahmatAlaziz)
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
